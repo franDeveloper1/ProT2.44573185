@@ -264,3 +264,12 @@ h2{
 
 }
 
+footer li {
+  color: white;
+  font-family: "Bebas Neue", sans-serif;
+  margin-left: 20px;
+  margin-top: 20px;
+  text-align: center;
+  list-style: none;
+  display: inline;
+}
