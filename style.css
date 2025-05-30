@@ -273,3 +273,12 @@ footer li {
   list-style: none;
   display: inline;
 }
+
+.general {
+ 
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-around;
+  text-align: center;
+  
+}
